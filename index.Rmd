@@ -11,4 +11,4 @@ output:
 
 ## Project thoughts
 
-I am interested in exploring data related to public sentiment in South Korea concerning acquiring independent nuclear weapons.
+I am interested in exploring data related to public sentiment in South Korea concerning acquiring independent nuclear weapons. More specifically, I'd like to see how party identification and sentiments towards US-ROK alliance impacts opinions towards this issue.
